@@ -1,0 +1,50 @@
+!!! 5
+
+/
+  :cdata
+    OnBlueDot
+
+%html.no-js{lang: 'en-CA'}
+  %head( prefix="" )
+    %meta{charset: 'utf-8'}
+    %meta{http: { equiv: 'X-UA-Compatible' }, content: 'IE=edge,chrome=1'}
+
+    %title= current_page.data.title || 'Porterhouse vegan'
+
+    %meta(name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no")
+    %meta(name="apple-mobile-web-app-capable" content="yes")
+
+    %meta( property="og:title" content="Porterhouse vegan restaurant" )
+    %meta( property="og:description" content="Craft beer and vegan food on Dundas West" )
+
+    = javascript_include_tag 'lib/modernizr'
+
+    :javascript
+      WebFontConfig = {
+        google: { families: [ 'Arvo:400,700:latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+
+    = stylesheet_link_tag 'site'
+    = yield_content :stylesheets
+
+    - if build?
+      / Add in Analytics
+
+  %body{class: page_classes}
+    #image-preload
+      = yield_content :image_preload
+
+    %main#main{role: 'main'}= yield
+
+    = javascript_include_tag '//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'
+    = javascript_include_tag 'site'
+    = yield_content(:javascripts)

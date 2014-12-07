@@ -1,0 +1,82 @@
+//-----------------------------------------------------------------------------
+// Typography
+//-----------------------------------------------------------------------------
+
+html, body
+  height: 100%
+
+body
+  line-height:            1.4em
+  color:                  #000
+  font-family:            $font-family
+  font-size:              16px
+  text-rendering:         optimizeLegibility
+  -webkit-font-smoothing: antialiased
+
+h1, h2, h3, h4, h5, h6
+  text-rendering:         optimizeLegibility
+  -webkit-font-smoothing: antialiased
+
+h1
+  margin:      0 0 0.2em
+  line-height: 1.3em
+  color:       #000
+  font-size:   2.25em
+  font-weight: normal
+
+h2
+  margin:      0 0 1em
+  line-height: 1.3em
+  color:       #000
+  font-size:   2.25em
+  font-weight: normal
+
+h3
+  margin:      0 0 1em
+  color:       #000
+  font-size:   1.125em
+  font-weight: $font-weight-bold
+
+h4
+  color:       #000
+  font-weight: $font-weight-bold
+
+p, ul, ol
+  margin-bottom:          1em
+  line-height:            1.71
+  color:                  #666
+  font-size:              0.875em
+  text-rendering:         optimizeLegibility
+  -webkit-font-smoothing: antialiased
+
+  &:last-child
+    margin-bottom: 0
+
+li p
+  font-size: 1em
+
+p.masthead
+  margin:         0 auto 2em
+  max-width:      32em
+  line-height:    1.48
+  font-size:      1.45em
+  letter-spacing: .25px
+
+a, .fake-link
+  color:           #666
+  text-decoration: none
+  +transition(color .24s cubic-bezier(0.645, 0.045, 0.355, 1))
+
+  &:hover, &:focus
+    text-decoration: underline
+
+strong
+  font-weight: $font-weight-bold
+
++at-breakpoint($break-mobile)
+  h2
+    font-size: 1.8em
+    margin-bottom: 0.6em
+
+  p.masthead
+    font-size: 1.2em
