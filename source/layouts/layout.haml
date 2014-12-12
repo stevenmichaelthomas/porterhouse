@@ -2,20 +2,31 @@
 
 /
   :cdata
-    OnBlueDot
+    Porterhouse restaurant
 
 %html.no-js{lang: 'en-CA'}
   %head( prefix="" )
     %meta{charset: 'utf-8'}
     %meta{http: { equiv: 'X-UA-Compatible' }, content: 'IE=edge,chrome=1'}
 
-    %title= current_page.data.title || 'Porterhouse vegan'
+    %title Porterhouse Restaurant | Dundas and Dovercourt, Toronto
 
+    %meta(name="description" content="Vegan fare and fine ales on Dundas West. ")
     %meta(name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no")
     %meta(name="apple-mobile-web-app-capable" content="yes")
 
-    %meta( property="og:title" content="Porterhouse vegan restaurant" )
-    %meta( property="og:description" content="Craft beer and vegan food on Dundas West" )
+    %meta( property="og:title" content="Porterhouse restaurant" )
+    %meta( property="og:description" content="Vegan fare and fine ales on Dundas West." )
+    %meta( property="og:image" content="#{'http://porterhouseto.com' << image_path('porterhouse_logo@2x.jpg')}" )
+    %meta( property="og:image:type" content="image/jpg" )
+    %meta( property="og:image:width" content="114" )
+    %meta( property="og:image:height" content="114" )
+
+    %meta( name="twitter:card" content="summary" )
+    %meta( name="twitter:site" content="@porterhouse_to" )
+    %meta( name="twitter:title" content="Porterhouse restaurant" )
+    %meta( name="twitter:description" content="Vegan fare and fine ales on Dundas West." )
+    %meta( name="twitter:image" content="#{'http://porterhouseto.com' << image_path('porterhouse_logo@2x.jpg')}" )
 
     = javascript_include_tag 'lib/modernizr'
 
