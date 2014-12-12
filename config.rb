@@ -6,6 +6,8 @@ require 'ostruct'
 
 require 'lib/sass_extensions.rb'
 
+activate :dotenv
+
 
 #-----------------------------------------------------------------------------
 # Helpers
@@ -20,26 +22,6 @@ end
 
 activate :directory_indexes
 page '/404.html', directory_index: false
-
-# Deploy stuff
-# activate :sync do |sync|
-#   sync.fog_provider = 'AWS'
-#   sync.fog_directory = ENV['DEPLOY_BUCKET']
-#   sync.fog_region = 'us-east-1'
-#   sync.aws_access_key_id = ENV['AWS_ACCESS_KEY_ID']
-#   sync.aws_secret_access_key = ENV['AWS_SECRET_ACCESS_KEY']
-#   sync.existing_remote_files = 'keep'
-#   sync.gzip_compression = true
-#   sync.after_build = false
-# end
-
-# activate :cloudfront do |cf|
-#   cf.access_key_id = ENV['AWS_ACCESS_KEY_ID']
-#   cf.secret_access_key = ENV['AWS_SECRET_ACCESS_KEY']
-#   cf.distribution_id = 'E6C5HNI8ML3GX'
-#   cf.filter = /\.html$/i
-#   cf.after_build = false
-# end
 
 #-----------------------------------------------------------------------------
 # Build
@@ -59,4 +41,17 @@ configure :build do
   else
     set :http_prefix, '/'
   end
+end
+
+Fog.credentials = { path_style: true }
+
+activate :sync do |sync|
+  sync.fog_provider = 'AWS'
+  sync.fog_directory = ENV['DEPLOY_BUCKET']
+  sync.fog_region = 'us-west-2'
+  sync.aws_access_key_id = ENV['AWS_ACCESS_KEY_ID']
+  sync.aws_secret_access_key = ENV['AWS_SECRET_ACCESS_KEY']
+  sync.existing_remote_files = 'keep'
+  sync.gzip_compression = true
+  sync.after_build = false
 end
