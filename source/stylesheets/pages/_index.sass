@@ -1,5 +1,10 @@
 .coming-soon
+  opacity: 0
   text-align: center
+  +transition(opacity 400ms ease)
+
+  .wf-active &
+    opacity: 1
 
   h1
     font-weight: bold
@@ -15,8 +20,7 @@
 #logo
   margin-bottom: $gutter
   width: 296px
-  height: 373px
-
+  height: auto
   max-width: 100%
 
 .social-icons
