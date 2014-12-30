@@ -20,7 +20,8 @@ end
 #-----------------------------------------------------------------------------
 
 activate :directory_indexes
-page '/404.html', directory_index: false
+page '/404.html',    directory_index: false
+page '/sitemap.xml', directory_index: false
 
 #-----------------------------------------------------------------------------
 # Build
