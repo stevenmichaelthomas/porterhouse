@@ -1,0 +1,97 @@
+snacks:
+  -
+    name: Bread & Preserves
+    price: $14
+    desc: >
+      king mushroom-chestnut confit, hazelnut paté, miso cured tofu, seasonal
+      jam, mustard, pickle
+
+  -
+    name: Beer battered potato dumplings
+    price: $9
+    desc: >
+      mashed potato dumplings with tempeh, herbs, beer gravy
+
+  -
+    name: Root vegetable salad
+    price: $10
+    desc: >
+      beet, carrot, radish, with lemon, dill, toasted almond
+
+  -
+    name: Curry fries
+    price: $9
+    desc: >
+      with roasted cauliflower
+
+full_plates:
+  -
+    name: Chip butty
+    price: $12
+    desc: >
+      fries, butter, marmite, on sliced white with slaw, bitter green salad
+
+  -
+    name: BBQ jackfruit sandwich
+    price: $14
+    desc: >
+      shredded jackfruit, slaw, horseradish mayo on a burger bun with fries
+  -
+    name: Yuba sandwich
+    price: $14
+    desc: >
+      bean curd, roasted root veg, beer gravy, horseradish mayo, cranberry sauce,
+      on sliced white with fries
+  -
+    name: Ploughman's lunch
+    price: $16
+    desc: >
+      stuffed fennel, miso-cured tofu, pickle, seasonal fruit and veg, beer
+      gravy, bread
+  -
+    name: Quinoa polenta
+    price: $13
+    desc: >
+      black kale, roasted beet
+  -
+    name: Lentil & ale pie
+    price: $14
+    desc: >
+      puy lentil in puff pastry with slaw, bitter green salad
+
+dessert:
+  -
+    name: Bread pudding
+    price: $8
+    desc: >
+      black currants, vanilla, bourbon sauce
+
+beer:
+  - Howe Sound, Dortmunder Lager, 355ml, 5.5% $6.75
+  - Double Trouble, Prison Break, German Pils, 473ml 5% $8.25
+  - Collective Arts, Rhyme & Reason, American Pale Ale, 347ml 5.7% $6.75
+  - Dieu du Ciel, Corne du Diablo, American IPA, 341ml 6.5% $9.25
+  - Bellwoods, Boogie Monster, Imperial IPA, 500ml 8% $15.75
+  - Great Lakes, Pompous Ass, English Pale Ale, 473ml 4.6% $6.75
+  - Glutenberg Blonde, Gluten-free Blonde Ale, 473ml 4.5% $10.25
+  - Stillwater Classique, Saison, 355ml 4.5% $9
+  - Side Launch Wheat, Hefeweizen, 473ml 5% $8.25
+  - Weihenstephaner Vitus, Weizenbock, 500ml 7.7% $11.75
+  - Black Oak, Barrel-Aged Saisaon, 650ml 4.8% $28
+  - Oast House Bière de Garde, 750ml 7% $32
+  - Westmalle Dubbel, 330ml 7% $12.50
+  - Chimay White, Tripel, 330ml 8% $10
+  - Rochefort 10, Quadrupel, 330ml 11.3% $12.50
+  - Liefmans Goudenband, Flemish Brown Ale, 375ml 8% $15
+  - De Ranke Cuvée, Sour Flemish Ale, 750ml 7% $41
+  - Malheur Brut, Champagne Beer, 750ml 11% $52
+
+cider:
+  - Pommies, Dry Cider, 355ml 5% $8.25
+  - Brickworks, Batch:1904, Dry Cider, 473ml 5% $9.50
+
+wine:
+  - Cave Spring, 2012 Cabernet-Merlot, 6oz. $11 / bottle $46
+  - Pillitteri Estates, 2010 Cabernet Franc, 6oz. $12 / bottle $50
+  - Pillitteri Estates, 2013 Sauvignon Blanc, 6oz. $12 / bottle $50
+  - Sprucewood Shores, 2013 Unoaked Chardonnay, 6oz. $12 / bottle $50

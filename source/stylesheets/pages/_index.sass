@@ -1,10 +1,5 @@
-.coming-soon
-  opacity: 0
+.hero
   text-align: center
-  +transition(opacity 400ms ease)
-
-  .wf-active &
-    opacity: 1
 
   h1
     font-weight: bold
@@ -12,20 +7,91 @@
     top: -9999px
     left: -9999px
 
-  h2
-    font-size: 1.7em
-    color: #f1f1f1
-
   p
-    color: #ccc
+    color: #f1f1f1
 
 #logo
   margin-bottom: $gutter
-  width: 296px
+  width: 250px
   height: auto
   max-width: 100%
+  clear: both
 
 .social-icons
+  clear: both
+  text-align: center
+  margin-bottom: 30px
+
+  a
+    &:hover,
+    &:focus
+      img
+        opacity: 1
+
   img
     width: 44px
     height: 44px
+    opacity: 0.8
+    +transition(300ms ease)
+
+
+.home-section
+  text-align: center
+  width: 280px
+  margin: 0 auto $gutter * 2
+  color: #f1f1f1
+
+  p
+    margin-bottom: 0
+    color: #f1f1f1
+
+  &.menu
+    width: auto
+
+  +at-breakpoint($break-desktop)
+    float: left
+
+    &.menu
+      float: none
+
+h2
+  font-size: 1.2em
+  margin: 0 auto $gutter / 2
+  padding-bottom: $gutter / 2
+  color: #f1f1f1
+  position: relative
+
+  &:after
+    position: absolute
+    left: 50%
+    bottom: 0
+    margin-left: -$gutter
+    height: 2px
+    width: $gutter * 2
+    background-color: rgba(#f1f1f1, 0.4)
+    content: ''
+
+.menu
+  h3
+    color: #f1f1f1
+    text-align: left
+    margin-top: 10px
+    margin-bottom: 10px
+
+    em
+      font-size: 14px
+      font-weight: 400
+
+  p
+    text-align: left
+    margin-bottom: $gutter / 2
+
+  strong
+    display: block
+
+  span
+    display: inline-block
+    margin-left: $gutter / 2
+
+.menu-section
+  margin: 0 0 25px

@@ -15,3 +15,19 @@ $body.find('textarea.autosize').autosize(append: '\n')
 #-----------------------------------------------------------------------------
 
 ScrollAnimation.start()
+
+#-----------------------------------------------------------------------------
+# Pretty scroll to
+#-----------------------------------------------------------------------------
+
+$body.on 'click', 'a', (event) ->
+  if this.host == window.location.host && this.pathname == window.location.pathname && this.hash
+    hash    = this.hash
+    $target = $(this.hash)
+
+    if $target.length
+      event.preventDefault()
+      window.history?.replaceState({}, document.title, hash)
+      $body
+        .stop()
+        .animate(scrollTop: $target.offset().top, 500)

@@ -1,0 +1,8 @@
+.menu-section
+  - collection.each do |item|
+    %p
+      %strong
+        = item.name
+        %span= item.price
+
+      = item.desc

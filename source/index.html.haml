@@ -5,17 +5,57 @@
 - content_for :javascripts, javascript_include_tag('index')
 
 .container
-  .coming-soon
+  .hero
     %h1
-      Porterhouse Restaurant - Vegan fare and fine ales on Dundas West in Toronto
+      Porter House Restaurant - Vegan fare and fine ales on Dundas West in Toronto
 
     = image_tag 'porterhouse_logo@2x.jpg', id: 'logo'
-    %h2 Now open
+
+  .social-icons
+    = link_to image_tag('instagram@2x.jpg'), '//instagram.com/porterhouse_to', target: '_blank'
+    = link_to image_tag('twitter@2x.jpg'), '//twitter.com/porterhouse_to', target: '_blank'
+
+  .home-section
+    %h2 Hours
+    %p Food 5-11pm, Drink until 2am
+    %p Closed Tuesdays and Jan 1
+
+  .home-section
+    %h2 Location
+
     %p
       = link_to 'https://www.google.ca/maps/place/1321+Dundas+St+W,+Toronto,+ON+M6J+1X8/@43.6493896,-79.4262962,17z/data=!3m1!4b1!4m2!3m1!1s0x882b345611255f0f:0x3cab5362aa6cb8df', target: '_blank' do
         1321 Dundas Street West<br/>
         Toronto
 
-    .social-icons
-      = link_to image_tag('instagram@2x.jpg'), '//instagram.com/porterhouse_to', target: '_blank'
-      = link_to image_tag('twitter@2x.jpg'), '//twitter.com/porterhouse_to', target: '_blank'
+
+
+  .home-section.menu
+    %h2 Menu
+
+    %h3 Snacks
+    = partial 'partials/food', locals: { collection: data.menu.snacks }
+
+    %h3 Full plates
+    = partial 'partials/food', locals: { collection: data.menu.full_plates }
+
+    %h3 Dessert
+    = partial 'partials/food', locals: { collection: data.menu.dessert }
+
+    %h2 Drink
+
+    %h3
+      Beer
+      %em (rotating draught also available)
+    = partial 'partials/drink', locals: { collection: data.menu.beer }
+
+    %h3 Cider
+    = partial 'partials/drink', locals: { collection: data.menu.cider }
+
+    %h3 Wine
+    = partial 'partials/drink', locals: { collection: data.menu.wine }
+
+    %p
+      %em (prices include tax)
+
+
