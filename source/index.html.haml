@@ -19,14 +19,19 @@
     %h2 Hours
     %p Food 5-11pm, Drink until 2am
     %p Closed Tuesdays
+    %p No reservations
 
   .home-section
     %h2 Location
 
     %p
       = link_to 'https://www.google.ca/maps/place/1321+Dundas+St+W,+Toronto,+ON+M6J+1X8/@43.6493896,-79.4262962,17z/data=!3m1!4b1!4m2!3m1!1s0x882b345611255f0f:0x3cab5362aa6cb8df', target: '_blank' do
-        1321 Dundas Street West<br/>
-        Toronto
+        1321 Dundas Street West, Toronto
+    %p
+      = mail_to 'porterhouseto@gmail.com'
+
+    %p
+      = link_to '647.346.3000', 'tel:6473463000'
 
 
 
