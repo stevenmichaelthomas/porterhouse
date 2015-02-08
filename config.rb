@@ -13,6 +13,15 @@ activate :dotenv
 #-----------------------------------------------------------------------------
 
 helpers do
+  def menu_item(item)
+    name, desc, price = item.split(' - ')
+
+    OpenStruct.new(
+      name: name,
+      desc: desc,
+      price: price
+    )
+  end
 end
 
 #-----------------------------------------------------------------------------

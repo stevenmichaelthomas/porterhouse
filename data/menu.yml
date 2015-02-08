@@ -1,70 +1,30 @@
 snacks:
-  -
-    name: Bread & Preserves
-    price: $14
-    desc: >
-      king mushroom-chestnut confit, hazelnut paté, miso cured tofu, seasonal
-      jam, mustard, pickle
+  - Bread & Preserves - king mushroom-chestnut confit, hazelnut paté, miso cured tofu, seasonal
+      jam, mustard, pickle - $14
 
-  -
-    name: Beer battered potato dumplings
-    price: $9
-    desc: >
-      mashed potato dumplings with tempeh, herbs, beer gravy
+  - Beer battered potato dumplings - mashed potato dumplings with tempeh, herbs, beer gravy - $9
 
-  -
-    name: Root vegetable salad
-    price: $10
-    desc: >
-      beet, carrot, radish, with lemon, dill, toasted almond
+  - Root vegetable salad - beet, carrot, radish, with lemon, dill, toasted almond - $10
 
-  -
-    name: Curry fries
-    price: $9
-    desc: >
-      with roasted cauliflower
+  - Curry fries - with roasted cauliflower - $9
 
 full_plates:
-  -
-    name: Chip butty
-    price: $12
-    desc: >
-      fries, butter, marmite, on sliced white with slaw, bitter green salad
+  - Chip butty - fries, butter, marmite, on sliced white with slaw, bitter green salad - $12
 
-  -
-    name: BBQ jackfruit sandwich
-    price: $14
-    desc: >
-      shredded jackfruit, slaw, horseradish mayo on a burger bun with fries
-  -
-    name: Yuba sandwich
-    price: $14
-    desc: >
-      bean curd, roasted root veg, beer gravy, horseradish mayo, cranberry sauce,
-      on sliced white with fries
-  -
-    name: Ploughman's lunch
-    price: $16
-    desc: >
-      stuffed fennel, miso-cured tofu, pickle, seasonal fruit and veg, beer
-      gravy, bread
-  -
-    name: Quinoa polenta
-    price: $15
-    desc: >
-      black kale, roasted beet
-  -
-    name: Lentil & ale pie
-    price: $15
-    desc: >
-      puy lentil in puff pastry with slaw, bitter green salad
+  - BBQ jackfruit sandwich - shredded jackfruit, slaw, horseradish mayo on a burger bun with fries - $14
+
+  - Yuba sandwich - bean curd, roasted root veg, beer gravy, horseradish mayo, cranberry sauce,
+      on sliced white with fries - $14
+
+  - Ploughman's lunch - stuffed fennel, miso-cured tofu, pickle, seasonal fruit and veg, beer
+      gravy, bread - $16
+
+  - Quinoa polenta - black kale, roasted beet - $15
+
+  - Lentil & ale pie - puy lentil in puff pastry with slaw, bitter green salad - $15
 
 dessert:
-  -
-    name: Bread pudding
-    price: $8
-    desc: >
-      black currants, vanilla, bourbon sauce
+  - Bread pudding - black currants, vanilla, bourbon sauce - $8
 
 beer:
   - Great Lakes, Canuck, American Pale Ale, 473ml 5.2% $6

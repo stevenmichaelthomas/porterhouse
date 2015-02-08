@@ -1,5 +1,6 @@
 .menu-section
   - collection.each do |item|
+    - item = menu_item(item)
     %p
       %strong
         = item.name
