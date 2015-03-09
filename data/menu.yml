@@ -36,7 +36,7 @@ full_plates:
   - Ploughman's lunch - stuffed fennel, miso-cured tofu, pickle, seasonal fruit and veg, beer
       gravy, bread - $16
 
-  - Quinoa polenta - black kale, roasted beet - $15
+  - Quinoa polenta - black kale, turnip, miso butter, hazelnuts - $15
 
   - Lentil & ale pie - puy lentil in puff pastry with slaw, bitter green salad - $15
 
@@ -52,12 +52,15 @@ beer:
   - Side Launch Wheat, Hefeweizen, 473ml 5%   $7.75
   - Double Trouble, Prison Break, German Pils, 473ml 5%   $8
   - Bellwoods, Monogamy - Simcoe, American Pale Ale, 500ml 6.4%  $13.75
-  - Bellwoods, Boogie Monster, Imperial IPA, 500ml 8%   $15.75
   - Stillwater Classique, Saison, 355ml 4.5%   $8.75
+  - Stillwater Cellar Door, Farmhouse Wit, 355ml 6.6%   $11
   - Nickel Brook, Bolshevik Bastard, Imperial Stout, 355ml 9%   $7.50
   - Dieu du Ciel!, Péché Mortel, Imperial Coffee Stout, 341ml 9.5%   $10.50
-  - Glutenberg Blonde, Gluten-free Blonde Ale, 473ml 4.5%   $10
+  - Glutenberg Blonde, Gluten-free Blonde Ale, 473ml 4.5%   $10.25
+  - Glutenberg Pale Ale, Gluten-free American Pale Ale, 473ml 5.5%   $10.25
   - Weihenstephaner Vitus, Weizenbock, 500ml 7.7%   $11.75
+  - Alvinne Phi, Sour Wild Ale, 330ml 8%   $11.25
+  - Liefmans Goudenband, Sour Flemish Brown Ale, 375ml 8%   $15
   - Westmalle Dubbel, 330ml 7%   $12
   - Chimay White, Tripel, 330ml 8%   $9.50
   - Rochefort 8, Belgian Strong Dark Ale, 330ml 9.2%   $12
@@ -68,6 +71,7 @@ beer:
   - Oast House, Bière de Garde, 750ml 7%   $28
   - De Ranke Cuvée, Sour Flemish Ale, 750ml 7%   $35
   - Les Trois Mousquetaires, Bourbon Barrel-Aged Baltic Porter, 750ml 10%   $39
+  - Malheur Brut, Champagne Beer, 750ml 12%   $49
 
 
 cider:
