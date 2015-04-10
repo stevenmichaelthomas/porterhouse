@@ -53,7 +53,7 @@ beer:
   - Side Launch Wheat, Hefeweizen, 473ml 5%   $7.75
   - Double Trouble, Prison Break, German Pils, 473ml 5%   $8
   - Bellwoods, Monogamy - Citra, American Pale Ale, 500ml 6.4%  $13.75
-  - Bellwoods, Motley Cru 2015, Sour Red Ale, 500ml 8.7%   $29
+  - Bellwoods, Motley Cru 2015, Sour Red Ale, 500ml 8.7%   $28
   - Stillwater Classique, Saison, 355ml 4.5%   $8.75
   - Stillwater Cellar Door, Farmhouse Wit, 355ml 6.6%   $11
   - Nickel Brook, Bolshevik Bastard, Imperial Stout, 355ml 9%   $7.50
@@ -69,14 +69,15 @@ beer:
   - Black Oak, Pinot Noir Barrel-Aged Saison, 650ml 4.8%   $26
   - Rodenbach, 2012 Vintage, Oak Aged Flanders Red Ale, 750ml 7%   $26
   - Oast House, Bière de Garde, 750ml 7%   $28
-  - De Ranke Cuvée, Sour Flemish Ale, 750ml 7%   $35
+  - De Ranke Cuvée, Sour Flemish Ale, 750ml 7%   $32
   - Les Trois Mousquetaires, Bourbon Barrel-Aged Baltic Porter, 750ml 10%   $39
   - Malheur Brut, Champagne Beer, 750ml 12%   $49
 
 
 cider:
-  - Pommies, Dry Cider, 355ml 5%   $8
+  - Pommies, Dry Cider, 355ml 5%   $7.50
   - Pommies Perry, Pear Cider, 355ml 5%   $8
+  - Pommies, Farmhouse Cider, 473ml 6%   $8.50
   - Brickworks, Batch:1904, Dry Cider, 473ml 5%   $9
   - West Avenue, Gold Dust, Single Variety Golden Russet Cider, 750ml 8.5%   $42
   - West Avenue, Barrett Fuller’s Secret, Bourbon Barrel-Aged Cider, 750ml 9.2%   $45
