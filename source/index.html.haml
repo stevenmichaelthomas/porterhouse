@@ -60,8 +60,14 @@
     %h3 Cider
     = partial 'partials/drink', locals: { collection: data.menu.cider }
 
+    %h3 To share
+    = partial 'partials/drink', locals: { collection: data.menu.to_share }
+
     %h3 Wine
     = partial 'partials/drink', locals: { collection: data.menu.wine }
+
+    %h3 Non-alcoholic
+    = partial 'partials/drink', locals: { collection: data.menu.non_alcoholic }
 
     %p
       %em (prices include tax)
