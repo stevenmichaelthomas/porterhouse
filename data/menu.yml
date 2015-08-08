@@ -50,11 +50,14 @@ beer:
   - Woodhouse, Amber Lager, 473ml 5% $8
   - Collective Arts, Rhyme & Reason, American Pale Ale, 347ml 5.7% $6.25
   - Anchor Steam, California Common, 355ml 4.9%   $6.50
+  - Sierra Nevada Pale Ale, American Pale Ale, 355ml 5.6%   $6.75
   - Side Launch Mountain, Helles Lager, 473ml 4.7%   $7.75
   - Side Launch Wheat, Hefeweizen, 473ml 5.3%   $7.75
   - Double Trouble, Prison Break, German Pils, 473ml 5%   $7.75
   - BrewDog, Punk IPA, 500ml 5.6%   $8.50
   - Boulevard, Tank 7 Farmhouse Ale, 355ml 8.5%    $9
+  - Bellwoods Monagamy: Amarillo, American Pale Ale, 500ml 6.4%   $13.75
+  - Bellwoods Midnight Pilot, Cold Brew Stout, 500ml 7%   $15
   - Stillwater Cellar Door, Farmhouse Wit, 355ml 6.6%   $11
   - Dieu du Ciel!, Péché Mortel, Imperial Coffee Stout, 341ml 9.5%   $10.50
   - Shacklands X Innocente, Brett Porter, 375ml 6%   $15
@@ -76,6 +79,7 @@ cider:
 to_share:
   - Bellwoods, No Rest For The Wicked, Brett Barrel Aged Sour Stout, 500ml 9.5%   $26.50
   - Le Trou du Diable, La Buteuse, Tripel, 600ml 9%   $19
+  - Saison Dupont, 750ml 6.5%   $20
   - Les Trois Mousquetaires, Bourbon Barrel-Aged Baltic Porter, 750ml 10%   $39
   - Malheur Brut, Champagne Beer, 750ml 12%   $49
   - Eric Bordelet, Sidre Tendre, French Cider, 750ml 4%   $38
