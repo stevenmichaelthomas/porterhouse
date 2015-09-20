@@ -1,4 +1,19 @@
+.nav
+  background: rgba(black, 0.9)
+  position: fixed
+  width: 100%
+  left: 0
+  margin: 0 auto
+  text-align: center
+  margin-bottom: 10px
+  z-index: 10
+
+  a
+    display: inline-block
+    padding: 7px 8px
+
 .hero
+  padding-top: $gutter * 2
   text-align: center
 
   h1
@@ -11,16 +26,20 @@
     color: #f1f1f1
 
 #logo
-  margin-bottom: $gutter
+  margin-top: $gutter
+  margin-bottom: $gutter * 2
   width: 250px
   height: auto
   max-width: 100%
   clear: both
 
+  +at-breakpoint($break-mobile)
+    margin-top: 0
+
 .social-icons
   clear: both
   text-align: center
-  margin-bottom: 30px
+  margin: 10px 0
 
   a
     &:hover,
@@ -34,12 +53,32 @@
     opacity: 0.8
     +transition(300ms ease)
 
+.prices
+  margin: 10px 0
 
 .home-section
-  text-align: center
   width: 280px
-  margin: 0 auto $gutter * 2
+  margin: 0 auto $gutter
   color: #f1f1f1
+
+  &.contact
+    text-align: center
+
+  &.hours
+    text-align: center
+    margin-bottom: $gutter * 2
+
+    h2:after
+      left: 50%
+      margin-left: -$gutter
+
+  h3
+    color: #f1f1f1
+    margin: 15px 0 5px
+    font-weight: normal
+
+    &:first-child
+      margin-top: 0
 
   p
     margin-bottom: 0
@@ -59,17 +98,16 @@
       float: none
 
 h2
-  font-size: 1.2em
-  margin: 0 auto $gutter / 2
-  padding-bottom: $gutter / 2
-  color: #f1f1f1
+  font-size: 22px
+  margin: 0 auto 20px
+  padding-bottom: 20px
+  color: #fff
   position: relative
 
   &:after
     position: absolute
-    left: 50%
+    left: 0
     bottom: 0
-    margin-left: -$gutter
     height: 2px
     width: $gutter * 2
     background-color: rgba(#f1f1f1, 0.4)

@@ -22,6 +22,15 @@ helpers do
       price: price
     )
   end
+
+  def addon(item)
+    name, price = item.split(' - ')
+
+    OpenStruct.new(
+      name: name,
+      price: price
+    )
+  end
 end
 
 #-----------------------------------------------------------------------------

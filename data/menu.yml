@@ -15,6 +15,15 @@
 #   - Item name - item description - $200
 #   - Item name - item description - $200
 
+sandwiches:
+  - Y.L.T. - yuba, lettuce, tomato, horseradish mayo, cider mustard
+  - BBQ Jackfruit - shredded jackfruit, slaw, horseradish mayo
+  - Curry Lord - chana masala, roasted cauliflower, cucumber, lettuce, mint aioli
+
+addons:
+  - Slaw - 3.5
+  - Farro salad - 3.5
+
 snacks:
   - Bread & Preserves - king mushroom-chestnut confit, hazelnut paté, miso cured tofu, seasonal
       jam, mustard, pickle - 14.5

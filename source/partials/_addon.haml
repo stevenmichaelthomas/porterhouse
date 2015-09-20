@@ -1,0 +1,7 @@
+.menu-section
+  - collection.each do |item|
+    - item = addon(item)
+    %p
+      %strong
+        = item.name
+        %span= item.price

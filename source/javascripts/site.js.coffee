@@ -30,4 +30,4 @@ $body.on 'click', 'a', (event) ->
       window.history?.replaceState({}, document.title, hash)
       $body
         .stop()
-        .animate(scrollTop: $target.offset().top, 500)
+        .animate(scrollTop: $target.offset().top - 30, 500)
