@@ -59,7 +59,7 @@ beer:
   - Collective Arts, Rhyme & Reason, American Pale Ale, 347ml 5.7% $6.25
   - Anchor Steam, California Common, 355ml 4.9%   $6.50
   - Sierra Nevada Pale Ale, American Pale Ale, 355ml 5.6%   $6.75
-  - Left Field Eephus, Brown Ale, 473ml 5.5%   $7.50
+  - Left Field Eephus, Brown Ale, 473ml 5.5%   $7.75
   - Side Launch Wheat, Hefeweizen, 473ml 5.3%   $7.75
   - Double Trouble, Prison Break, German Pils, 473ml 5%   $7.75
   - BrewDog Punk IPA, 500ml 5.6%   $8.50
@@ -90,6 +90,7 @@ cider:
   - Brickworks, Batch:1904, Dry Cider, 473ml 5%   $9
 
 to_share:
+  - Bellwoods Monogamy: Centennial w/ Apricot and Peach, Brett Barrel Aged Pale Ale, 500ml 7.2%   $22.50
   - Bellwoods, No Rest For The Wicked, Brett Barrel Aged Sour Stout, 500ml 9.5%   $26.50
   - Bellwoods Farmageddon w/ Niagara Montmorency Cherries, Brett Barrel Aged Saison, 500ml 6.7%   $28
   - Le Trou du Diable, La Buteuse, Tripel, 600ml 9%   $19
