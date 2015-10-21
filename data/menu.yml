@@ -73,7 +73,6 @@ beer:
   - Dieu du Ciel! Solstice d’éte, Raspberry Berliner Weisse, 341ml 5.9%   $12
   - Shacklands X Innocente, Brett Porter, 375ml 6%   $15
   - Glutenberg Pale Ale, Gluten-free American Pale Ale, 473ml 5.5%   $10.25
-  - Cuvée des Jacobins Rouge, Flanders Red Ale, 330ml 5.5%   $9.75
   - Liefmans Goudenband, Sour Flemish Brown Ale, 375ml 8%   $16.25
   - Weihenstephaner Hefeweissbier, 500ml 5.4%   $8.50
   - Ayinger Weizenbock, 500ml 7.1%   $13.25
@@ -90,7 +89,7 @@ cider:
   - Brickworks, Batch:1904, Dry Cider, 473ml 5%   $9
 
 to_share:
-  - Bellwoods Monogamy: Centennial w/ Apricot and Peach, Brett Barrel Aged Pale Ale, 500ml 7.2%   $22.50
+  - Bellwoods Monogamy - Centennial w/ Apricot and Peach, Brett Barrel Aged Pale Ale, 500ml 7.2%   $22.50
   - Bellwoods, No Rest For The Wicked, Brett Barrel Aged Sour Stout, 500ml 9.5%   $26.50
   - Bellwoods Farmageddon w/ Niagara Montmorency Cherries, Brett Barrel Aged Saison, 500ml 6.7%   $28
   - Le Trou du Diable, La Buteuse, Tripel, 600ml 9%   $19
