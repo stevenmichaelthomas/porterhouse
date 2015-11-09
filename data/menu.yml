@@ -17,88 +17,87 @@
 
 snacks:
   - Bread & Preserves - king mushroom-chestnut confit, hazelnut paté, miso cured tofu, seasonal
-      jam, mustard, pickle - 14.5
+      jam, mustard, pickle - 15
 
   - Onion bhaji - chickpea flour, amchoor, ajwain, black salt, mint aioli - 9
 
-  - Apple-fennel salad - red leaf, farro, mint, spiced prunes, toasted walnuts, lemon - 10
+  - Apple-fennel salad - red leaf, farro, mint, spiced prunes, toasted walnuts, lemon - 9
 
-  - Curry fries - chana masala, roasted cauliflower - 9.5
+  - Curry fries - chana masala, roasted cauliflower - 10
 
 full_plates:
-  - Chip butty - fries, butter, marmite, on sliced white with slaw, bitter green salad - 13.5
+  - Chip butty - fries, butter, marmite, on sliced white with slaw, bitter green salad - 13
 
-  - BBQ jackfruit sandwich - shredded jackfruit, slaw, horseradish mayo on a burger bun with fries - 14.5
+  - BBQ jackfruit sandwich - shredded jackfruit, slaw, horseradish mayo on a burger bun with fries - 14
 
-  - Yuba sandwich - bean curd, roasted eggplant, arugula, pickle, whole grain mustard, horseradish mayo,
-      on sliced white with fries, beer gravy - 14.5
+  - Yuba sandwich - bean curd, bubble and squeak, pickled beet, cranberry sauce, horseradish mayo,
+      on sliced white with fries, beer gravy - 14
 
   - Ploughman's lunch - stuffed fennel, bitter green salad, miso-cured tofu, pickle, seasonal fruit,
       tomato relish, beer gravy, bread - 16
 
-  - Quinoa polenta - black kale, turnip, miso butter, hazelnut - 15.5
+  - Quinoa polenta - black kale, turnip, miso butter, hazelnut - 15
 
-  - Lentil & ale pasty - puy lentil with slaw, bitter green salad, beer gravy - 15.5
+  - Lentil & ale pasty - puy lentil with slaw, bitter green salad, beer gravy - 15
 
 dessert:
   - Apple tart - with vanilla-rum cream - 9
 
 beer:
-  - Great Lakes, Canuck, American Pale Ale, 473ml 5.2% $6
-  - Great Lakes, Pompous Ass, English Pale Ale, 473ml 4.6% $6
-  - Woodhouse, Amber Lager, 473ml 5% $8
-  - Collective Arts, Rhyme & Reason, American Pale Ale, 347ml 5.7% $6.25
-  - Anchor Steam, California Common, 355ml 4.9%   $6.50
-  - Sierra Nevada Pale Ale, American Pale Ale, 355ml 5.6%   $6.75
-  - Left Field Eephus, Brown Ale, 473ml 5.5%   $7.75
-  - Side Launch Wheat, Hefeweizen, 473ml 5.3%   $7.75
-  - Double Trouble, Prison Break, German Pils, 473ml 5%   $7.75
-  - BrewDog Punk IPA, 500ml 5.6%   $8.50
-  - Bellwoods Monogamy - Columbus, American Pale Ale, 500ml 6.4%   $13.75
-  - Boulevard Tank 7, Farmhouse Ale, 355ml 8.5%    $9
-  - Stillwater Classique, Saison, 355ml 4.5%   $8.75
-  - Stillwater Cellar Door, Farmhouse Wit, 355ml 6.6%   $11
-  - Dieu du Ciel! Péché Mortel, Imperial Coffee Stout, 341ml 9.5%   $10.50
-  - Dieu du Ciel! Rosée d’Hibiscus, Hibiscus Spiced Wit, 341ml 5.9%   $10
-  - Dieu du Ciel! Solstice d’éte, Raspberry Berliner Weisse, 341ml 5.9%   $12
-  - Shacklands X Innocente, Brett Porter, 375ml 6%   $15
-  - Glutenberg Pale Ale, Gluten-free American Pale Ale, 473ml 5.5%   $10.25
-  - Liefmans Goudenband, Sour Flemish Brown Ale, 375ml 8%   $16.25
-  - Weihenstephaner Hefeweissbier, 500ml 5.4%   $8.50
-  - Ayinger Weizenbock, 500ml 7.1%   $13.25
-  - Orval, Belgian Pale Ale, 330ml 6.9%   $9
-  - Rochefort 8, Belgian Strong Dark Ale, 330ml 9.2%   $12
-  - Chimay White, Tripel, 330ml 8%   $9.50
-  - Westvleteren 12, Quadrupel, 330ml 10.2%   $30
+  - Great Lakes, Canuck, American Pale Ale, 473ml 5.2% $5.50
+  - Great Lakes, Pompous Ass, English Pale Ale, 473ml 4.6% $5.50
+  - Woodhouse, Amber Lager, 473ml 5% $7
+  - Collective Arts, Rhyme & Reason, American Pale Ale, 347ml 5.7% $5.50
+  - Anchor Steam, California Common, 355ml 4.9%   $5.75
+  - Sierra Nevada Pale Ale, American Pale Ale, 355ml 5.6%   $6
+  - Left Field Eephus, Brown Ale, 473ml 5.5%   $7
+  - Side Launch Wheat, Hefeweizen, 473ml 5.3%   $7
+  - Double Trouble, Prison Break, German Pils, 473ml 5%   $7
+  - BrewDog Punk IPA, 500ml 5.6%   $7.50
+  - Bellwoods Monogamy - Columbus, American Pale Ale, 500ml 6.4%   $12.25
+  - Boulevard Tank 7, Farmhouse Ale, 355ml 8.5%    $8
+  - Stillwater Classique, Saison, 355ml 4.5%   $7.75
+  - Stillwater Cellar Door, Farmhouse Wit, 355ml 6.6%   $9.75
+  - Dieu du Ciel! Péché Mortel, Imperial Coffee Stout, 341ml 9.5%   $9.50
+  - Dieu du Ciel! Rosée d’Hibiscus, Hibiscus Spiced Wit, 341ml 5.9%   $9
+  - Dieu du Ciel! Solstice d’éte, Raspberry Berliner Weisse, 341ml 5.9%   $10.75
+  - Glutenberg Pale Ale, Gluten-free American Pale Ale, 473ml 5.5%   $9
+  - Liefmans Goudenband, Sour Flemish Brown Ale, 375ml 8%   $14.50
+  - Weihenstephaner Hefeweissbier, 500ml 5.4%   $7.50
+  - Ayinger Weizenbock, 500ml 7.1%   $11.75
+  - Orval, Belgian Pale Ale, 330ml 6.9%   $8
+  - Rochefort 8, Belgian Strong Dark Ale, 330ml 9.2%   $10.75
+  - Chimay White, Tripel, 330ml 8%   $8.50
+  - Westvleteren 12, Quadrupel, 330ml 10.2%   $27
 
 
 cider:
-  - Pommies, Dry Cider, 355ml 5%   $7.50
-  - Pommies Perry, Pear Cider, 355ml 5%   $8
-  - Pommies, Farmhouse Cider, 473ml 6%   $8.50
-  - Brickworks, Batch:1904, Dry Cider, 473ml 5%   $9
+  - Pommies, Dry Cider, 355ml 5%   $6.75
+  - Pommies Perry, Pear Cider, 355ml 5%   $7.25
+  - Pommies, Farmhouse Cider, 473ml 6%   $7.50
+  - Brickworks, Batch:1904, Dry Cider, 473ml 5%   $8
 
 to_share:
-  - Bellwoods Monogamy - Centennial w/ Apricot and Peach, Brett Barrel Aged Pale Ale, 500ml 7.2%   $22.50
-  - Bellwoods, No Rest For The Wicked, Brett Barrel Aged Sour Stout, 500ml 9.5%   $26.50
-  - Bellwoods Farmageddon w/ Niagara Montmorency Cherries, Brett Barrel Aged Saison, 500ml 6.7%   $28
-  - Le Trou du Diable, La Buteuse, Tripel, 600ml 9%   $19
-  - Saison Dupont, 750ml 6.5%   $20
-  - De Ranke Cuvée, Sour Flemish Ale, 750ml 7%   $33
-  - Les Trois Mousquetaires, Bourbon Barrel-Aged Baltic Porter, 750ml 10%   $39
-  - Malheur Brut, Champagne Beer, 750ml 12%   $49
-  - Eric Bordelet, Sidre Tendre, French Cider, 750ml 4%   $38
-  - West Avenue, Gold Dust, Single Variety Golden Russet Cider, 750ml 8.5%   $39
-  - West Avenue, Cherry Beach, Niagara Montmorency Cherry Cider, 750ml 8.5%   $42
-  - West Avenue, Barrett Fuller’s Secret, Bourbon Barrel-Aged Cider, 750ml 9.2%   $45
+  - Bellwoods Monogamy - Centennial w/ Apricot and Peach, Brett Barrel Aged Pale Ale, 500ml 7.2%   $20
+  - Bellwoods, No Rest For The Wicked, Brett Barrel Aged Sour Stout, 500ml 9.5%   $23.50
+  - Bellwoods Farmageddon w/ Niagara Montmorency Cherries, Brett Barrel Aged Saison, 500ml 6.7%   $25
+  - Le Trou du Diable, La Buteuse, Tripel, 600ml 9%   $17
+  - Saison Dupont, 750ml 6.5%   $17.75
+  - De Ranke Cuvée, Sour Flemish Ale, 750ml 7%   $29.25
+  - Les Trois Mousquetaires, Bourbon Barrel-Aged Baltic Porter, 750ml 10%   $34.50
+  - Malheur Brut, Champagne Beer, 750ml 12%   $43.50
+  - Eric Bordelet, Sidre Tendre, French Cider, 750ml 4%   $33.75
+  - West Avenue, Gold Dust, Single Variety Golden Russet Cider, 750ml 8.5%   $34.50
+  - West Avenue, Cherry Beach, Niagara Montmorency Cherry Cider, 750ml 8.5%   $37.25
+  - West Avenue, Barrett Fuller’s Secret, Bourbon Barrel-Aged Cider, 750ml 9.2%   $40
 
 
 wine:
-  - Cave Spring, 2012 Cabernet-Merlot, 6oz. $12/bottle $50
-  - Cave Spring, 2013 Dry Riesling, 6oz. $12/bottle $50
+  - Cave Spring, 2012 Cabernet-Merlot, 6oz. $10.75/bottle $44.25
+  - Cave Spring, 2013 Dry Riesling, 6oz. $10.75/bottle $44.25
 
 non_alcoholic:
-  - Boylan Soda  $3.50
-  - Pop  $3
-  - Station Cold Brew Coffee  $3.75
-  - Tea  $3
+  - Boylan Soda  $3.25
+  - Pop  $2.75
+  - Station Cold Brew Coffee  $3.50
+  - Tea  $2.75
