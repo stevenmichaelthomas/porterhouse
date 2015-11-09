@@ -7,7 +7,6 @@
 .container
   .nav
     = link_to 'Hours', '#hours'
-    = link_to 'Lunch', '#lunch'
     = link_to 'Dinner', '#dinner'
     = link_to 'Drink', '#drink'
   .hero
@@ -33,9 +32,6 @@
 
   .home-section.hours
     %h2#hours Hours
-    %h3 Lunch:
-    %p Friday-Sunday 11:30am-4pm
-
     %h3 Dinner:
     %p Wednesday-Friday 6pm-1am
     %p Saturday 5pm-1am
@@ -46,15 +42,6 @@
       %strong Closed Tuesday
     %p
       %strong No reservations
-
-  .home-section.menu
-    %h2#lunch Lunch Menu
-
-    %h3 Sandwiches or Tacos (2) $9
-    = partial 'partials/food', locals: { collection: data.menu.sandwiches }
-
-    %h3 Sides
-    = partial 'partials/addon', locals: { collection: data.menu.addons }
 
   .home-section.menu
     %h2#dinner Dinner Menu
