@@ -52,6 +52,7 @@ beer:
   - Collective Arts, Rhyme & Reason, American Pale Ale, 347ml 5.7% $5.50
   - Anchor Steam, California Common, 355ml 4.9%   $5.75
   - Sierra Nevada Pale Ale, American Pale Ale, 355ml 5.6%   $6
+  - Lagunitas IPA, 355ml 6.2%   $6.75
   - Left Field Eephus, Brown Ale, 473ml 5.5%   $7
   - Side Launch Wheat, Hefeweizen, 473ml 5.3%   $7
   - Double Trouble, Prison Break, German Pils, 473ml 5%   $7
@@ -59,6 +60,7 @@ beer:
   - Boulevard Tank 7, Farmhouse Ale, 355ml 8.5%    $8
   - Viven Porter, 330ml 7%   $7
   - Liefmans Goudenband, Sour Flemish Brown Ale, 330ml 8%   $12
+  - Rodenbach Grand Cru, Flanders Red Ale, 330ml 6%   $10.75
   - Timmermans Oude Gueuze, 375ml 5.5%   $16
   - Stillwater Brontide, Belgian Dark Ale, 355ml 5%   $7.25
   - Stillwater Classique, Saison, 355ml 4.5%   $7.75
@@ -79,6 +81,7 @@ cider:
   - Pommies, Dry Cider, 355ml 5%   $6.75
   - Pommies Perry, Pear Cider, 355ml 5%   $7.25
   - Pommies, Farmhouse Cider, 473ml 6%   $7.50
+  - KW Craft, Dry Cider, 330ml 6.7%   $8.25
   - Brickworks, Batch:1904, Dry Cider, 473ml 5%   $8
 
 to_share:
