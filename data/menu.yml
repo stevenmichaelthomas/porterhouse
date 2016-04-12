@@ -64,13 +64,12 @@ beer:
   - Rodenbach Grand Cru, Flanders Red Ale, 330ml 6%   $10.75
   - Boon Oude Geuze, 375ml 7%   $15
   - Timmermans Oude Gueuze, 375ml 5.5%   $16
-  - Dieu du Ciel! Péché Mortel, Imperial Coffe Stout, 341ml 9.5%   $9
+  - Dieu du Ciel! Péché Mortel, Imperial Coffee Stout, 341ml 9.5%   $9
   - Dieu du Ciel! L’Or des Marais, Saison w/ Cloudberry & Sweet Gale, 341ml 6.5%   $10.75
   - Stillwater Classique, Saison, 355ml 4.5%   $7.75
   - Stillwater Stateside, Saison, 355ml 6.8%   $9.50
   - Le Trou du Diable, Saison du Tracteur, 375ml 6%   $9
   - Le Trou du Diable Pitoune, Keller Pils, 375ml 5%   $9
-  - Dieu du Ciel! Péché Mortel, Imperial Coffee Stout, 341ml 9.5%   $9.50
   - Weihenstephaner Hefeweissbier, 500ml 5.4%   $7.50
   - Ayinger Weizenbock, 500ml 7.1%   $11.75
   - Ayinger Celebrator, Doppelbock, 330ml 6.7%   $9.25
@@ -106,6 +105,8 @@ wine:
   - Cave Spring, 2013 Dry Riesling, 6oz. $10.75/bottle $44.25
 
 non_alcoholic:
+  - Housemade Spiced Apple Cider   $4
+	    -Spiked w/ Liquor   $9
   - Boylan Soda  $3.25
   - Pop  $2.75
   - Tea  $2.75
