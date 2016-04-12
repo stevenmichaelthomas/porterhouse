@@ -16,8 +16,8 @@
 #   - Item name - item description - $200
 
 snacks:
-  - Bread & Preserves - king mushroom-chestnut confit, pumpkin seed paté, miso cured tofu, seasonal
-      jam, mustard, pickle - 15
+  - Bread & Preserves - king mushroom-chestnut confit, pumpkin seed paté, truffled tofu, seasonal
+      jam, house mustard, pickle - 16
 
   - Onion bhaji - chickpea flour, amchoor, ajwain, black salt, mint aioli - 9
 
@@ -26,14 +26,14 @@ snacks:
   - Curry fries - chana masala, roasted cauliflower - 10
 
 full_plates:
-  - Chip butty - fries, butter, marmite, on sliced white with slaw, pickled carrot and endive salad - 13
+  - Chip butty - fries, butter, marmite, on sliced white sourdough with slaw, pickled carrot and endive salad - 13
 
-  - BBQ jackfruit sandwich - shredded jackfruit, slaw, horseradish mayo on a burger bun with fries - 14
+  - BBQ jackfruit sandwich - shredded jackfruit, slaw, horseradish mayo on a burger bun with fries - 14.5
 
-  - Yuba sandwich - bean curd, bubble and squeak, pickled beet, cranberry sauce, horseradish mayo,
-      on sliced white with fries, beer gravy - 14
+  - Yuba sandwich - bean curd, braised onion, bread and butter zucchini pickles, red leaf lettuce, house mustard,
+      horseradish mayo, on sliced white sourdough with fries, beer gravy - 14.5
 
-  - Ploughman's lunch - stuffed fennel, pickled carrot and endive salad, miso-cured tofu, pickle, seasonal fruit,
+  - Ploughman's lunch - stuffed fennel, pickled carrot and endive salad, truffled tofu, pickle, seasonal fruit,
       cranberry sauce, beer gravy, bread - 16
 
   - Quinoa polenta - black kale, turnip, miso butter, hazelnut - 15
@@ -52,7 +52,6 @@ beer:
   - Collective Arts, Rhyme & Reason, American Pale Ale, 347ml 5.7% $5.50
   - Anchor Steam, California Common, 355ml 4.9%   $5.75
   - Sierra Nevada Pale Ale, American Pale Ale, 355ml 5.6%   $6
-  - Lagunitas IPA, 355ml 6.2%   $6.75
   - Left Field Eephus, Brown Ale, 473ml 5.5%   $7
   - Shillow Bitter Waitress, Black IPA, 473ml %   $7.50
   - Side Launch Wheat, Hefeweizen, 473ml 5.3%   $7
@@ -85,16 +84,19 @@ cider:
   - Pommies Perry, Pear Cider, 355ml 5%   $7.25
   - Pommies, Farmhouse Cider, 473ml 6%   $7.50
   - KW Craft, Dry Cider, 330ml 6.7%   $8.25
+  - Revel Hop X, Dry Hopped Cider, 500ml 6.9%   $14
 
 to_share:
   - Bellwoods No Rest For The Wicked, Brett Barrel Aged Sour Stout, 500ml 9.5%   $23.50
   - Bellwoods Farmageddon w/ Niagara Montmorency Cherries, Brett Barrel Aged Saison, 500ml 6.7%   $25
+  - Stone Brewing Co., Smoked Porter, 650ml 5.9%   $20
   - Le Trou du Diable L’Ours, Rye Barrel Aged Sour Saison, 750ml 6%   $26
   - Saison Dupont, 750ml 6.5%   $17.75
+  - Rodenbach 2013 Vintage, Oak Aged Flanders Red Ale, 750ml 7%   $26
   - De Ranke Cuvée, Sour Flemish Ale, 750ml 7%   $29.25
   - Les Trois Mousquetaires, Bourbon Barrel-Aged Baltic Porter, 750ml 10%   $34.50
   - Malheur Brut, Champagne Beer, 750ml 11%   $45
-  - Eric Bordelet, Sidre Tendre, French Cider, 750ml 4%   $33.75
+  - Eric Bordelet, Sidre Tendre, French Cider, 750ml 4%   $28
   - West Avenue, Wild Oak, Oak Aged Cider w/ Wild Yeast, 750ml 8.2%   $37.25
   - West Avenue, Barrett Fuller’s Secret, Bourbon Barrel-Aged Cider, 750ml 9.2%   $40
 
