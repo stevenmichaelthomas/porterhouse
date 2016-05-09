@@ -59,6 +59,7 @@ beer:
   - Double Trouble, Prison Break, German Pils, 473ml 5%   $7
   - Liberty Village Gosebuster, Gose, 473ml 5.1%   $7.50
   - Evil Twin Hipster Ale, American Pale Ale, 355ml 5.5%   $9
+  - Evil Twin Bikini Beer, Session Pale Ale, 355ml 3.5%   $9
   - Bellwoods Jutsu, American Pale Ale, 500ml 5.6%   $11.50
   - Bellwoods Farmhouse Classic, Saison, 500ml 7%   $14
   - Viven Porter, 330ml 7%   $7
@@ -67,6 +68,7 @@ beer:
   - Boon Oude Geuze, 375ml 7%   $15
   - Timmermans Oude Gueuze, 375ml 5.5%   $16
   - Drie Fonteinen Oude Geuze Golden Blend, 375ml 7.5%   $39
+  - Drie Fonteinen Zwet.Be, Sour Porter, 330ml 7%   $16
   - Dieu du Ciel! Péché Mortel, Imperial Coffee Stout, 341ml 9.5%   $9
   - Dieu du Ciel! L’Or des Marais, Saison w/ Cloudberry & Sweet Gale, 341ml 6.5%   $10.75
   - Stillwater Classique, Saison, 355ml 4.5%   $7.75
@@ -95,7 +97,6 @@ to_share:
   - Le Trou du Diable Mellifera, Sour Saison w/ Honey, 600ml 5%   $18
   - Le Trou du Diable L’Ours, Rye Barrel Aged Sour Saison, 750ml 6%   $26
   - Saison Dupont, 750ml 6.5%   $17.75
-  - Rodenbach 2013 Vintage, Oak Aged Flanders Red Ale, 750ml 7%   $26
   - De Ranke Cuvée, Sour Flemish Ale, 750ml 7%   $29.25
   - Les Trois Mousquetaires, Bourbon Barrel-Aged Baltic Porter, 750ml 10%   $34.50
   - Malheur Brut, Champagne Beer, 750ml 11%   $45
