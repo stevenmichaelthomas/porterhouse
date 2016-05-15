@@ -16,7 +16,7 @@
 #   - Item name - item description - $200
 
 snacks:
-  - Bread & Preserves - king mushroom-chestnut confit, pumpkin seed paté, truffled tofu, seasonal
+  - Bread & Preserves - marinated oyster mushrooms, pumpkin seed paté, truffled tofu, seasonal
       jam, house mustard, pickle - 16
 
   - Onion bhaji - chickpea flour, amchoor, ajwain, black salt, mint aioli - 9
@@ -26,12 +26,12 @@ snacks:
   - Curry fries - chana masala, roasted cauliflower - 10
 
 full_plates:
-  - Chip butty - fries, butter, marmite, on sliced white sourdough with slaw, pickled carrot and endive salad - 13
+  - Chip butty - fries, butter, marmite, on sliced white sourdough with slaw, pickled carrot and endive salad - 13.5
 
-  - BBQ jackfruit sandwich - shredded jackfruit, slaw, horseradish mayo on a burger bun with fries - 14.5
+  - BBQ jackfruit sandwich - shredded jackfruit, slaw, horseradish mayo on a burger bun with fries - 15
 
   - Yuba sandwich - bean curd, braised onion, bread and butter zucchini pickles, red leaf lettuce, house mustard,
-      horseradish mayo, on sliced white sourdough with fries, beer gravy - 14.5
+      horseradish mayo, on sliced white sourdough with fries, beer gravy - 15
 
   - Beans on toast - navy beans, ancho-molasses sauce, beer battered fennel - 15.5
 
@@ -106,7 +106,7 @@ to_share:
 
 
 wine:
-  - Cave Spring, 2012 Cabernet-Merlot, 6oz. $10.75/bottle $44.25
+  - Cave Spring, 2013 Cabernet-Merlot, 6oz. $10.75/bottle $44.25
   - Cave Spring, 2013 Dry Riesling, 6oz. $10.75/bottle $44.25
 
 non_alcoholic:
