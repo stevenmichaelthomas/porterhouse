@@ -45,11 +45,11 @@ dessert:
 
 
 beer:
-  - Great Lakes, Canuck, American Pale Ale, 473ml 5.2% $5.50
-  - Great Lakes, Pompous Ass, English Pale Ale, 473ml 4.6% $5.50
+  - Great Lakes, Canuck, American Pale Ale, 473ml 5.2% $6
+  - Great Lakes, Pompous Ass, English Pale Ale, 473ml 4.6% $6
   - Woodhouse, Amber Lager, 473ml 5% $7
   - Woodhouse, Dry Irish Stout, 473ml 4.7%   $7
-  - Collective Arts, Rhyme & Reason, American Pale Ale, 347ml 5.7% $5.50
+  - Collective Arts, Rhyme & Reason, American Pale Ale, 347ml 5.7% $5.75
   - Anchor Steam, California Common, 355ml 4.9%   $5.75
   - Sierra Nevada Pale Ale, American Pale Ale, 355ml 5.6%   $6
   - Left Field Eephus, Brown Ale, 473ml 5.5%   $7
@@ -59,7 +59,7 @@ beer:
   - Double Trouble, Prison Break, German Pils, 473ml 5%   $7
   - Liberty Village Gosebuster, Gose, 473ml 5.1%   $7.50
   - Evil Twin Hipster Ale, American Pale Ale, 355ml 5.5%   $9
-  - Evil Twin Bikini Beer, Session Pale Ale, 355ml 3.5%   $9
+  - Evil Twin Bikini Beer, Session Pale Ale, 355ml 3.5%   $8
   - Bellwoods Jutsu, American Pale Ale, 500ml 5.6%   $11.50
   - Bellwoods Farmhouse Classic, Saison, 500ml 7%   $14
   - Viven Porter, 330ml 7%   $7
@@ -70,7 +70,6 @@ beer:
   - Drie Fonteinen Oude Geuze Golden Blend, 375ml 7.5%   $39
   - Drie Fonteinen Zwet.Be, Sour Porter, 330ml 7%   $16
   - Dieu du Ciel! Péché Mortel, Imperial Coffee Stout, 341ml 9.5%   $9
-  - Dieu du Ciel! L’Or des Marais, Saison w/ Cloudberry & Sweet Gale, 341ml 6.5%   $10.75
   - Stillwater Classique, Saison, 355ml 4.5%   $7.75
   - Stillwater Stateside, Saison, 355ml 6.8%   $9.50
   - Le Trou du Diable, Saison du Tracteur, 375ml 6%   $9
@@ -85,7 +84,6 @@ beer:
 
 
 cider:
-  - Pommies Perry, Pear Cider, 355ml 5%   $7.25
   - Pommies, Farmhouse Cider, 473ml 6%   $7.50
   - KW Craft, Dry Cider, 330ml 6.7%   $8.25
   - Revel Hop X, Dry Hopped Cider, 500ml 6.9%   $14
@@ -97,7 +95,6 @@ to_share:
   - Le Trou du Diable Mellifera, Sour Saison w/ Honey, 600ml 5%   $18
   - Le Trou du Diable L’Ours, Rye Barrel Aged Sour Saison, 750ml 6%   $26
   - Saison Dupont, 750ml 6.5%   $17.75
-  - De Ranke Cuvée, Sour Flemish Ale, 750ml 7%   $29.25
   - Les Trois Mousquetaires, Bourbon Barrel-Aged Baltic Porter, 750ml 10%   $34.50
   - Malheur Brut, Champagne Beer, 750ml 11%   $45
   - Eric Bordelet, Sidre Tendre, French Cider, 750ml 4%   $28
