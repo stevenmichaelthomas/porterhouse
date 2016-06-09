@@ -62,7 +62,6 @@ beer:
   - Evil Twin Bikini Beer, Session Pale Ale, 355ml 3.5%   $8
   - Bellwoods Jutsu, American Pale Ale, 500ml 5.6%   $11.50
   - Bellwoods Farmhouse Classic, Saison, 500ml 7%   $14
-  - Viven Porter, 330ml 7%   $7
   - Liefmans Goudenband, Sour Flemish Brown Ale, 330ml 8%   $12
   - Rodenbach Grand Cru, Flanders Red Ale, 330ml 6%   $10.75
   - Boon Oude Geuze, 375ml 7%   $15
@@ -87,6 +86,7 @@ cider:
   - Revel Hop X, Dry Hopped Cider, 500ml 6.9%   $14
 
 to_share:
+  - Bellwoods 3 Minutes to Midnight 2015, Barrel Aged Imperial Stout w/ Cherries, 500ml 10%  $28
   - Bellwoods Motley Cru 2016, Barrel Aged Blended Sour Ale w/ Gewürztraminer, 500ml 8%   $30
   - Bellwoods Barn Owl No. 3, Barrel Aged Blended Saison w/ Niagara Peaches, 500ml 6.5%   $28
   - Stone Brewing Co., Smoked Porter, 650ml 5.9%   $20
