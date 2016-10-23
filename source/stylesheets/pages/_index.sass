@@ -73,19 +73,6 @@
     margin-bottom: 0
     color: #f1f1f1
 
-  &.menu
-    clear: both
-    width: auto
-
-  +at-breakpoint($break-mobile)
-    width: auto
-
-  +at-breakpoint($break-desktop)
-    float: left
-
-    &.menu
-      float: none
-
 h2
   font-size: 22px
   margin: 0 auto 20px
@@ -95,7 +82,8 @@ h2
 
   &:after
     position: absolute
-    left: 0
+    left: 50%
+    margin-left: -$gutter
     bottom: 0
     height: 2px
     width: $gutter * 2
